@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Archivos .log ###
+*.log
+
+### Carpeta modules ###
+modules/
